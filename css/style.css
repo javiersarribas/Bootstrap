@@ -1,0 +1,13 @@
+body{
+	background-image:url("../img/dark-honeycomb.png");
+	background-color: #cccccc;
+	text-align:center;
+	color:white;
+}
+
+.row{
+	margin-top:20px;
+	min-height:40px;
+	justify-content:space-between;
+}
+
